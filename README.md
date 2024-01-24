@@ -38,6 +38,13 @@ I'm a full stack developer...
 <a href="https://www.w3.org/html/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
 
+## Skills Framework
+<a href="https://dotnet.microsoft.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" height="40" width="40" />
+</a>
+<a href="https://laravel.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40" width="40" />
+</a>
 
 
 
