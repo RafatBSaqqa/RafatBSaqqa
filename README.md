@@ -25,10 +25,30 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a full stack developer...
-<a href="https://reactjs.org/" target="blank">
+Passionate about MERN Stack development 🚀 | Building robust and scalable web applications using
+MongoDB <a href="https://www.mongodb.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
+</a>,
+Express.js<a href="https://expressjs.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+</a>,
+React<a href="https://reactjs.org/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="40" width="40" />
+</a>, 
+and 
+Node.js 💻<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
+ | Constantly learning and exploring new technologies to enhance user experiences 🌟 | #MERNStack #WebDevelopment #FullStackDeveloper
+
+
+MERN Stack enthusiast 🌐 | Creating dynamic and interactive web applications with MongoDB, Express.js, React, and Node.js 🖥️ | Dedicated to delivering high-quality code and exceptional user experiences 💯 | #MERNStackDeveloper #WebAppDevelopment #TechEnthusiast
+
+
+MERN Stack aficionado 📚 | Crafting modern and efficient web solutions using MongoDB, Express.js, React, and Node.js ⚡ | Strong believer in clean code and seamless user interfaces 👨‍💻 | #MERNStackDevelopment #CodeQuality #UserExperience
+
+
+
 <a href="https://getbootstrap.com" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="40" width="40" />
 </a>
