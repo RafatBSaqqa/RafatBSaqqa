@@ -25,10 +25,13 @@ Open for work...
 # Skills Programming Languages
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" alt="JavaScript" height="40" width="40" />
 </a>
 <a href="https://www.php.net" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40" width="40" />
+</a>
+<a href="https://www.php.net" target="blank">
+<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="PHP" height="40" width="40" />
 </a>
 
 
