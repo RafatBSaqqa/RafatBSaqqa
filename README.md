@@ -37,4 +37,19 @@ I'm a full stack developer...
 </a>
 <a href="https://www.w3.org/html/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Html5" height="40" width="40" />
+
+
+
+
+
+
+
+## Skills Backend Development
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
+<a href="https://expressjs.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+</a>
+
 </a>
