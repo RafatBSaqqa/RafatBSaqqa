@@ -60,7 +60,7 @@ Node.js 💻
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" height="40" width="40" />
 </a>
 <a href="https://laravel.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40" width="40" />
 </a>
 
 ## Skills Framework Front-end
