@@ -60,3 +60,14 @@ I'm a full stack developer...
 </a>
 
 </a>
+
+
+##  Skills Database
+
+<a href="https://www.mongodb.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+</a>
+
