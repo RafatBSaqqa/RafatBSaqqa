@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 Passionate about MERN Stack development 🚀 | Building robust and scalable web applications using
-MongoDB <a href="https://www.mongodb.com/" target="blank">
+MongoDB <br/> <a href="https://www.mongodb.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
 </a>,
 Express.js<a href="https://expressjs.com" target="blank">
