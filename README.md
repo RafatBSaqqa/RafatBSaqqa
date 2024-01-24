@@ -49,7 +49,13 @@ Node.js 💻
  | Constantly learning and exploring new technologies to enhance user experiences 🌟 | Dedicated to delivering high-quality code and exceptional user experiences 💯| Strong believer in clean code and seamless user interfaces 👨‍💻 |
   #MERNStack #WebDevelopment #FullStackDeveloper #CodeQuality #UserExperience  #MERNStackDevelopment 
 
-## Skills Framework
+## Skills Framework Back-end
+<a href="https://nodejs.org" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+</a>
+<a href="https://expressjs.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+</a>
 <a href="https://dotnet.microsoft.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" height="40" width="40" />
 </a>
@@ -57,14 +63,11 @@ Node.js 💻
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40" width="40" />
 </a>
 
-## Skills Backend Development
-<a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
-</a>
-<a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
-</a>
+## Skills Framework Front-end
 
+<a href="https://laravel.com/" target="blank">
+<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+" alt="Laravel" height="40" width="40" />
 </a>
 
 
