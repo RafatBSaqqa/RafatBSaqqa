@@ -22,38 +22,15 @@ Node.js 💻
 </a>
 
 ## - 🌱 I’m currently learning ...  
-
-<a href="">
- <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />   
- </a>
  <a href="">
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />    
   </a>
-  <a href="">
- <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />    
- </a>
  <a href="">
- <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />   
- </a>
- 
- <a href="">
-
  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />    
  </a>
  <a href="">
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />    
 </a>
-
-
-## - 📫 How to reach me: ...
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
-
-
-
-
-
-
-
 
 ## Skills Framework Back-end
 <a href="https://nodejs.org" target="blank">
@@ -75,7 +52,7 @@ Node.js 💻
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS"/>
 </a>
 <a href="https://laravel.com/" target="blank">
-<img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular JS"/>
+<img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </a>
 
 ##  Skills Database
@@ -87,3 +64,6 @@ Node.js 💻
 <img " src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  />
 </a>
 
+
+## - 📫 How to reach me: ...
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
