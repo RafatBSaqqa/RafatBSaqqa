@@ -57,16 +57,16 @@ Node.js 💻
 
 ## Skills Framework Back-end
 <a href="https://nodejs.org" target="blank">
-<img align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40" width="40" />
+<img  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </a>
 <a href="https://expressjs.com" target="blank">
-<img align="center" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="40" width="40" />
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"  />
 </a>
 <a href="https://dotnet.microsoft.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dotnet" height="40" width="40" />
+<img  src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dotnet" />
 </a>
 <a href="https://laravel.com/" target="blank">
-<img align="center" src="[https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)" alt="Laravel" height="40" width="40" />
+<img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </a>
 
 ## Skills Framework Front-end
@@ -81,9 +81,9 @@ Node.js 💻
 ##  Skills Database
 
 <a href="https://www.mongodb.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40" width="40" />
+<img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </a>
 <a href="https://www.mysql.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" width="40" />
+<img " src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  />
 </a>
 
