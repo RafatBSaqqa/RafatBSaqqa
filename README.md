@@ -1,6 +1,7 @@
 ### Hi there 👋 
  
   <img src="MERN.jpg"/>
+  
 ## -🚀 About Me 
 Passionate about MERN Stack development  Building robust and scalable web applications using
 MongoDB,
