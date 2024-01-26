@@ -1,8 +1,18 @@
 ### Hi there 👋
 
 
-## - 🔭 I’m currently working on ...
-Open for work...
+# Skills Programming Languages
+
+<a href=""> 
+<img  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"  />
+</a>
+<a href=""> 
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"  />
+</a>
+<a href=""> 
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="PHP"  />
+</a>
+
 ## - 🌱 I’m currently learning ...  
 
 <a href="">
@@ -26,26 +36,12 @@ Open for work...
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />    
 </a>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 ## - 📫 How to reach me: ...
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-# Skills Programming Languages
 
-<a href=""> 
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40" width="40" />
-</a>
-<a href=""> 
-<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40" width="40" />
-</a>
-<a href=""> 
-<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="PHP" height="40" width="40" />
-</a>
 
 
 
