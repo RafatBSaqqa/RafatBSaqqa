@@ -21,7 +21,7 @@ Node.js 💻
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"  />
 </a>
 
-## - 🌱 I’m currently learning ...  
+<h3> - 🌱 I’m currently learning ...  </h3> 
  <a href="">
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />    
   </a>
@@ -32,7 +32,7 @@ Node.js 💻
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />    
 </a>
 
-## Skills Framework Back-end
+<h3>Skills Framework Back-end</h3> 
 <a href="https://nodejs.org" target="blank">
 <img  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 </a>
@@ -46,7 +46,7 @@ Node.js 💻
 <img  src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </a>
 
-## Skills Framework Front-end
+<h3> Skills Framework Front-end</h3> 
 
 <a href="https://laravel.com/" target="blank">
 <img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS"/>
@@ -55,7 +55,7 @@ Node.js 💻
 <img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
 </a>
 
-##  Skills Database
+<h3>  Skills Database</h3> 
 
 <a href="https://www.mongodb.com/" target="blank">
 <img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
