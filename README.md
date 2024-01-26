@@ -75,16 +75,21 @@ Node.js 💻
 <img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"  />
 </a>
 <a href="https://www.mysql.com/" target="blank">
-<img  src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
-" alt="Google_chrome"  />
+<img  src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Google_chrome"  />
 </a>
-<a href="https://www.mysql.com/" target="blank">
-<img  src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="Google_chrome"  />
+<a href="https://www.asus.com/" target="blank">
+<img  src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="Asus"  />
 </a>
+<a href="https://www.asus.com/" target="blank">
+<img  src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white
+" alt="NVIDIA"  />
+</a>
+
 ## - 📫 How to reach me: ...
 <a href="" target="_blank"> 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
 </a>
+
 <a href="https://www.linkedin.com/in/rafat-saqqa/" target="_blank"> 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />    
 </a>
