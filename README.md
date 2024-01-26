@@ -80,9 +80,8 @@ Node.js 💻
 <a href="https://www.asus.com/" target="blank">
 <img  src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="Asus"  />
 </a>
-<a href="https://www.asus.com/" target="blank">
-<img  src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white
-" alt="NVIDIA"  />
+<a href="https://www.nividia.com/" target="blank">
+<img  src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"  />
 </a>
 
 ## - 📫 How to reach me: ...
