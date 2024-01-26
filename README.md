@@ -61,9 +61,26 @@ Node.js 💻
 <img  src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </a>
 <a href="https://www.mysql.com/" target="blank">
-<img " src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  />
+<img  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"  />
 </a>
 
+<h3>  building environment</h3> 
+<a href="https://www.mongodb.com/" target="blank">
+<img  src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows_11" />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+<img  src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode"  />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+<img  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="GIT"  />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+<img  src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white
+" alt="Google_chrome"  />
+</a>
+<a href="https://www.mysql.com/" target="blank">
+<img  src="https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white" alt="Google_chrome"  />
+</a>
 ## - 📫 How to reach me: ...
 <a href="" target="_blank"> 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
