@@ -86,6 +86,7 @@ Node.js 💻
 <a href="https://www.trello..com/" target="blank">
 <img  src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"  />
 </a>
+
 ## - 📫 How to reach me: ...
 <a href="" target="_blank"> 
  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />    
