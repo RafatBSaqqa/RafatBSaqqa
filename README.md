@@ -8,7 +8,8 @@ and
 Node.js 
   Constantly learning and exploring new technologies to enhance user experiences  Dedicated to delivering high-quality code and exceptional user experiences  Strong believer in clean code and seamless user interfaces 👨‍💻 |
   
-welcomeeeeee
+  <img src="MERN.jpg"/>
+
 <h3>Skills Programming Languages</h3> 
 
 <a href=""> 
