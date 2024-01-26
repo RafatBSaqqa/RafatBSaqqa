@@ -1,12 +1,12 @@
 ### Hi there 👋
 ## -🚀 About Me 
-Passionate about MERN Stack development 🚀 | Building robust and scalable web applications using
+Passionate about MERN Stack development 🚀 Building robust and scalable web applications using
 MongoDB,
 Express.js,
 React, 
 and 
 Node.js 💻
- | Constantly learning and exploring new technologies to enhance user experiences 🌟 | Dedicated to delivering high-quality code and exceptional user experiences 💯| Strong believer in clean code and seamless user interfaces 👨‍💻 |
+  Constantly learning and exploring new technologies to enhance user experiences 🌟  Dedicated to delivering high-quality code and exceptional user experiences 💯| Strong believer in clean code and seamless user interfaces 👨‍💻 |
   #MERNStack #WebDevelopment #FullStackDeveloper #CodeQuality #UserExperience  #MERNStackDevelopment 
 
 <h3>Skills Programming Languages</h3> 
