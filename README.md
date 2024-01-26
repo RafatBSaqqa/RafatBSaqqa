@@ -37,15 +37,15 @@ Open for work...
 
 # Skills Programming Languages
 
-
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)" alt="JavaScript" height="40" width="40" />
-
-
+<a href=""> 
+<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="40" width="40" />
+</a>
+<a href=""> 
 <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="40" width="40" />
-
-
+</a>
+<a href=""> 
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="PHP" height="40" width="40" />
-
+</a>
 
 
 
@@ -61,16 +61,16 @@ Node.js 💻
 
 ## Skills Framework Back-end
 <a href="https://nodejs.org" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="40" width="40" />
 </a>
 <a href="https://expressjs.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="40" width="40" />
 </a>
 <a href="https://dotnet.microsoft.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="Dotnet" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Dotnet" height="40" width="40" />
 </a>
 <a href="https://laravel.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="40" width="40" />
+<img align="center" src="[https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)" alt="Laravel" height="40" width="40" />
 </a>
 
 ## Skills Framework Front-end
@@ -84,9 +84,9 @@ Node.js 💻
 ##  Skills Database
 
 <a href="https://www.mongodb.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="40" width="40" />
 </a>
 <a href="https://www.mysql.com/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
+<img align="center" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="40" width="40" />
 </a>
 
