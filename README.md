@@ -1,5 +1,13 @@
 ### Hi there 👋
-
+## -🚀 About Me 
+Passionate about MERN Stack development 🚀 | Building robust and scalable web applications using
+MongoDB,
+Express.js,
+React, 
+and 
+Node.js 💻
+ | Constantly learning and exploring new technologies to enhance user experiences 🌟 | Dedicated to delivering high-quality code and exceptional user experiences 💯| Strong believer in clean code and seamless user interfaces 👨‍💻 |
+  #MERNStack #WebDevelopment #FullStackDeveloper #CodeQuality #UserExperience  #MERNStackDevelopment 
 
 # Skills Programming Languages
 
@@ -10,7 +18,7 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"  />
 </a>
 <a href=""> 
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="PHP"  />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"  />
 </a>
 
 ## - 🌱 I’m currently learning ...  
@@ -45,15 +53,7 @@
 
 
 
-## -🚀 About Me 
-Passionate about MERN Stack development 🚀 | Building robust and scalable web applications using
-MongoDB,
-Express.js,
-React, 
-and 
-Node.js 💻
- | Constantly learning and exploring new technologies to enhance user experiences 🌟 | Dedicated to delivering high-quality code and exceptional user experiences 💯| Strong believer in clean code and seamless user interfaces 👨‍💻 |
-  #MERNStack #WebDevelopment #FullStackDeveloper #CodeQuality #UserExperience  #MERNStackDevelopment 
+
 
 ## Skills Framework Back-end
 <a href="https://nodejs.org" target="blank">
@@ -72,10 +72,11 @@ Node.js 💻
 ## Skills Framework Front-end
 
 <a href="https://laravel.com/" target="blank">
-<img align="center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-" alt="Laravel" height="40" width="40" />
+<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS"/>
 </a>
-
+<a href="https://laravel.com/" target="blank">
+<img  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular JS"/>
+</a>
 
 ##  Skills Database
 
