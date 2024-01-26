@@ -1,4 +1,6 @@
 ### Hi there 👋 
+ 
+  <img src="MERN.jpg"/>
 ## -🚀 About Me 
 Passionate about MERN Stack development  Building robust and scalable web applications using
 MongoDB,
@@ -7,8 +9,7 @@ React,
 and 
 Node.js 
   Constantly learning and exploring new technologies to enhance user experiences  Dedicated to delivering high-quality code and exceptional user experiences  Strong believer in clean code and seamless user interfaces 👨‍💻 |
-  
-  <img src="MERN.jpg"/>
+ 
 
 <h3>Skills Programming Languages</h3> 
 
