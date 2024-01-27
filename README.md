@@ -34,7 +34,10 @@ Node.js
  <a href="">
  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />    
 </a>
-
+ <a href="">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+" />    
+</a>
 <h3>Skills Framework Back-end</h3> 
 <a href="https://nodejs.org" target="blank">
 <img  src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
